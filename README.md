@@ -1,6 +1,9 @@
-# Objectives
+# WeLoveMovies (a Thinkful capstone project)
+
+## Objectives
 
 This project is designed to test your ability to build complex servers and access data through a database. To succeed at this project, you'll need to demonstrate that you can do the following tasks:
+
 - Install and use common middleware packages
 - Receive requests through routes
 - Run tests from the command line
@@ -18,22 +21,27 @@ You will not need to make any edits to HTML or CSS for this project.
 
 Remember to download this project to your local machine so that you can work on it locally and submit your work to GitHub for grading in the next lesson.
 
-# General tasks
+## General tasks
 
 You will also need to make sure that the following tasks are complete.
+
 - Your app.js file and server.js file are correctly configured, with your app.js file exporting the application created from Express.
 - You use the cors package so that requests from the frontend can correctly reach the backend.
 - If a request is made to a route that doesn't exist, the server returns a 404 error.
 - If a request is made to a route that exists but the HTTP method is wrong, the server returns a 405 error.
 - All of your routes respond with the appropriate status code and use a data key in the response.
 
-# Steps to complete
+## Steps to complete
+
 To complete this project, you must do the following steps:
+
 - Write code that passes all the tests in the Qualified assessment in this lesson.
 - Write code that passes all of the requirements in the project below, and submit your GitHub repo link in the next lesson.
 
-# Project rubric
+## Project rubric
+
 For your project to pass, all of the following statements must be true.
+
 - All the tests are passing in Qualified.
 - The migrations can be correctly run and rolled back.
 - The seed command can be run multiple times and will work correctly.
