@@ -1,6 +1,9 @@
-# WeLoveMovies (a Thinkful capstone project)
+# Capstone: WeLoveMovies
 
 ## Objectives
+>You've been hired as a backend developer at a new startup called WeLoveMovies. As another developer works on the design and frontend experience, you have been tasked with setting up a database and building out specific routes so that users can gain access to data about movies, theaters, and reviews.
+
+![WeLoveMovies frontend dashboard](https://images.ctfassets.net/c7lxnbtvvcxm/3xzgFVIxgNM4H53CsJkKJa/64c51046aa810105e3ef4af77867a6f7/WeLoveMovies.png)
 
 This project is designed to test your ability to build complex servers and access data through a database. To succeed at this project, you'll need to demonstrate that you can do the following tasks:
 
@@ -19,8 +22,6 @@ This project is designed to test your ability to build complex servers and acces
 
 You will not need to make any edits to HTML or CSS for this project.
 
-Remember to download this project to your local machine so that you can work on it locally and submit your work to GitHub for grading in the next lesson.
-
 ## General tasks
 
 You will also need to make sure that the following tasks are complete.
@@ -31,18 +32,11 @@ You will also need to make sure that the following tasks are complete.
 - If a request is made to a route that exists but the HTTP method is wrong, the server returns a 405 error.
 - All of your routes respond with the appropriate status code and use a data key in the response.
 
-## Steps to complete
-
-To complete this project, you must do the following steps:
-
-- Write code that passes all the tests in the Qualified assessment in this lesson.
-- Write code that passes all of the requirements in the project below, and submit your GitHub repo link in the next lesson.
-
 ## Project rubric
 
 For your project to pass, all of the following statements must be true.
 
-- All the tests are passing in Qualified.
+- All the tests are passing.
 - The migrations can be correctly run and rolled back.
 - The seed command can be run multiple times and will work correctly.
 - A response is included for Method Not Allowed.
